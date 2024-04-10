@@ -1,6 +1,6 @@
 # Shopply
+Shopping manager app. You can add a product to products-to-buy list and afterwards mark as bought. Possibility to filter the product list by price and shop.
 
-Shopping manager. You can add a product to the product-to_buy list and mark after buy. Possibility to filter the product list by price and shop.
 ## Technologies
 * React Native
 
