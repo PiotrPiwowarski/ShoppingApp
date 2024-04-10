@@ -4,7 +4,7 @@ import { View, StyleSheet, Image } from 'react-native';
 const Background = () => {
   return (
     <View style={styles.container}>
-      <Image source={require('../mountine.png')} style={styles.bgcImage} />
+      <Image source={require('../assets/mountine.png')} style={styles.bgcImage} />
       <View style={styles.bgc}></View>
     </View>
   );
