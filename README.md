@@ -6,7 +6,7 @@ Shopping manager application. User can add a product to products-to-buy list and
 * React Native
 
 ## Main functionalities
-[](./assets/readme/home.jpeg)
+![](./assets/readme/home.jpeg)
 ### Registration
 ### Login
 ### Adding new item to shopping list
