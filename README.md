@@ -4,6 +4,10 @@ Shopping manager application. User can add a product to products-to-buy list and
 ## Introduction
 Keep in mind that there is no database used in this project, all data is stored in components state. So all data entered by the user will disappear after restarting application.
 
+There are some data predefined for testing purposes:
+* Users: login: `login: admin password: admin`, `login: user password: user`
+* Products: there are also some products prepared for testing purposes
+
 ![home](./assets/readme/home.jpeg)
 
 ## Technologies
